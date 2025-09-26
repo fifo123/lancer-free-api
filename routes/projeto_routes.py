@@ -45,7 +45,7 @@ def rota_criar_projeto(body: CriarProjetoSchema):
     "/<int:projeto_id>",
     description="Atualiza um projeto",
     summary="Atualiza um projeto",
-    responses={200: ProjetoSchema},
+    responses={200: ProjetoSchema, 404: ProjetoDeletadoResponse},
 )
 def rota_editar_projeto(path: ProjetoPath, body: CriarProjetoSchema):
     proj = atualizar_projeto(path.projeto_id, body.model_dump())
