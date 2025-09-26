@@ -33,7 +33,7 @@ def rota_listar_todos_projetos():
 @projeto_bp.post(
     "",
     description="Cria um novo projeto",
-    summary="Cria um novo template",
+    summary="Cria um novo projeto",
     responses={200: ProjetoSchema},
 )
 def rota_criar_projeto(body: CriarProjetoSchema):
