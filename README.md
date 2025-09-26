@@ -1,4 +1,4 @@
-# Lancer Free API
+# 🗡️ - Lancer Free API
 
 API para gerenciamento de projetos de freelancer.
 
@@ -12,10 +12,10 @@ API para gerenciamento de projetos de freelancer.
 ## Tecnologias
 
 - **[Flask](https://flask.palletsprojects.com/)**: Microframework web para Python.
-- **[Flask-OpenAPI3](https://github.com/nblask/flask-openapi3)**: Geração de documentação OpenAPI 3.0 para Flask.
+- **[Flask-OpenAPI3](https://luolingchun.github.io/flask-openapi3/v3.x/)**: Geração de documentação OpenAPI 3.0 para Flask.
 - **[SQLAlchemy](https://www.sqlalchemy.org/)**: ORM para interação com o banco de dados.
 - **[Pydantic](https://pydantic-docs.helpmanual.io/)**: Validação de dados.
-- **[Flask-CORS](https://flask-cors.readthedocs.io/)**: Lida com Cross-Origin Resource Sharing (CORS).
+- **[Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)**: Lida com Cross-Origin Resource Sharing (CORS).
 
 ## Como Rodar o Projeto
 
