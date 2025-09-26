@@ -28,8 +28,8 @@ API para gerenciamento de projetos de freelancer.
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
-   cd back
+   git clone <url-do-repositorio> lancer-free-api
+   cd lancer-free-api
    ```
 
 2. **Crie e ative um ambiente virtual:**
