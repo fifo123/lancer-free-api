@@ -28,7 +28,7 @@ API para gerenciamento de projetos de freelancer.
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio> lancer-free-api
+   git clone https://github.com/fifo123/lancer-free-api.git lancer-free-api
    cd lancer-free-api
    ```
 
