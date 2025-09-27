@@ -48,7 +48,7 @@ API para gerenciamento de projetos de freelancer.
    python app.py
    ```
 
-O servidor estará rodando em `http://0.0.0.0:8000`. A documentação da API (Swagger UI) estará disponível em `http://0.0.0.0:8000/swagger`.
+O servidor estará rodando em `http://0.0.0.0:8000`. A documentação da API (Swagger UI) estará disponível em `http://0.0.0.0:8000/openapi/swagger`, ou `http://0.0.0.0:8000/openapi` para escolher uma outra UI de documentação.
 
 ## Estrutura do Projeto
 
